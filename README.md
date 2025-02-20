@@ -8,7 +8,8 @@ App icon: (Installed on an Android device)
 <img src="https://github.com/user-attachments/assets/f8f26b35-80cd-43f2-9134-ead3ef919df0" width=15% height=15%>
 
 App Login/Signup page:
-<img src="https://github.com/user-attachments/assets/b0cffa3e-9777-4bd1-a3b4-5f3559ffdaeb" width=15% height=15%>
+<br>
+<img src="https://github.com/user-attachments/assets/b0cffa3e-9777-4bd1-a3b4-5f3559ffdaeb" width=25% height=25%>
 
 User dashboard:
 ![WhatsApp Image 2025-02-20 at 20 01 41_6b34a594](https://github.com/user-attachments/assets/fdf93582-3168-4203-9303-67b744c46ada)
