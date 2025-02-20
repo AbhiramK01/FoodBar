@@ -5,7 +5,7 @@ A Flutter project with authentication and cloud database integrated with Firebas
 App icon: (Installed on an Android device)
 
 ![WhatsApp Image 2025-02-20 at 20 01 37_18bf9ffc](https://github.com/user-attachments/assets/f8f26b35-80cd-43f2-9134-ead3ef919df0)
-<img src="https://github.com/user-attachments/assets/f8f26b35-80cd-43f2-9134-ead3ef919df0" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/f8f26b35-80cd-43f2-9134-ead3ef919df0" width=15% height=15%>
 
 App Login/Signup page:
 ![WhatsApp Image 2025-02-20 at 20 01 41_a1af5e7f](https://github.com/user-attachments/assets/b0cffa3e-9777-4bd1-a3b4-5f3559ffdaeb)
