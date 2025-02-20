@@ -1,17 +1,21 @@
-# untitled3
+# FoodBar
 
-A new Flutter project.
+A Flutter project with authentication and cloud database integrated with Firebase.
 
-## Getting Started
+App icon: (Installed on an Android device)
+![WhatsApp Image 2025-02-20 at 20 01 37_18bf9ffc](https://github.com/user-attachments/assets/f8f26b35-80cd-43f2-9134-ead3ef919df0)
 
-This project is a starting point for a Flutter application.
+App Login/Signup page:
+![WhatsApp Image 2025-02-20 at 20 01 41_a1af5e7f](https://github.com/user-attachments/assets/b0cffa3e-9777-4bd1-a3b4-5f3559ffdaeb)
 
-A few resources to get you started if this is your first Flutter project:
+User dashboard:
+![WhatsApp Image 2025-02-20 at 20 01 41_6b34a594](https://github.com/user-attachments/assets/fdf93582-3168-4203-9303-67b744c46ada)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Barcode scanner:
+![WhatsApp Image 2025-02-20 at 20 01 46_524695b2](https://github.com/user-attachments/assets/065cf631-4548-4f72-a1c5-0c473a7fed91)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# FoodBar" 
+Displaying of fetched data:
+![WhatsApp Image 2025-02-20 at 20 01 47_65299120](https://github.com/user-attachments/assets/180f3d8d-ffb2-4c3a-b433-ccbbf8be211c)
+
+Past scans stored in history:
+![WhatsApp Image 2025-02-20 at 20 01 50_90f6bde9](https://github.com/user-attachments/assets/44868ddf-3f3c-45d4-9602-d36ec6f2929e)
